@@ -1046,4 +1046,5 @@
     <icon drawable="@drawable/themed_icon_shadow_fight_2" name="Shadow Fight 2" package="com.nekki.shadowfight"/>
     <icon drawable="@drawable/themed_icon_super_retro_mega_wars" name="Super Retro Mega Wars" package="com.serwylo.retrowars"/>
     <icon drawable="@drawable/themed_icon_salat" name="অর্থপূর্ণ নামায (সলাত)" package="com.greentech.salatbn"/>
+    <icon drawable="@drawable/themed_icon_where_is_my_train" name"Where is my Train" package="com.whereismytrain.android"/>
 </icons>
